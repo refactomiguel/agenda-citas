@@ -24,16 +24,16 @@ function App() {
       {
         id: 'p1',
         nombre: 'Pipo',
-        propietario: 'Miguel',
-        email: 'minchetas@hotmail.com',
+        propietario: 'John Doe',
+        email: 'jdoe@nobody.com',
         fecha: '2022-10-26',
         sintomas: 'No come'
       },
       {
         id: 'p2',
         nombre: 'Hook',
-        propietario: 'Pablo',
-        email: 'cuci@hotmail.com',
+        propietario: 'Jenny Doe',
+        email: 'jendoe@nobody.com',
         fecha: '2022-10-26',
         sintomas: 'No duerme'
       },
